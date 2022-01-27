@@ -1,0 +1,25 @@
+# main links
+main:
+  - title: "Il progetto"
+    url: /progetto/
+  - title: "Chrétien de Troyes"
+    url: /chretien/
+  - title: "I romanzi"
+    url: /erec/
+  - title: "Risorse"
+    url: /risorse/
+  
+
+romanzi:
+  - title: I romanzi
+    children:
+      - title: "Erec et Enide"
+        url: /erec/
+      - title: "Cligès"
+        url: /cliges/
+      - title: "Yvain o Chevalier au lion"
+        url: /yvain/
+      - title: "Lancelot o Chevalier de la charrette"
+        url: /lancelot/
+      - title: "Perceval o Conte du Graal"
+        url: /perceval/
